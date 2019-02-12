@@ -1,4 +1,4 @@
-//This program checks whether the given number is odd or even.
+#This program checks whether the given number is odd or even.
 a=int(input("Enter a number:"))
 if(a==0):
     print("Neither Even nor Odd")
